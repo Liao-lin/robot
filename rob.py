@@ -199,7 +199,7 @@ def integration(x):
 
 
 def main():
-    integration(5)
+    integration(3)
 
 
 main()
