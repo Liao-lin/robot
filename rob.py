@@ -32,6 +32,7 @@ def calculate(x):
     angle = None
     point = np.sqrt(5)/5
     TRS = np.array([[1, 0, 0, 242], [0, 1, 0, 150], [0, 0, 1, 188], [0, 0, 0, 1]])
+
     # 第一条边
     # for step in range(0, 150):
     #     if x in range(6):
